@@ -2,8 +2,6 @@
 <h1>Hi 👋, I'm Atakan Unal</h1>  
 <h3>Full-stack Web Developer</h3>  
   
-- 🔭 I’m currently working for [@Datafex](https://datafex.com.tr)  
-  
 - 📝 I regularly write articles on [https://atakanunal.com](https://atakanunal.com)  
   
 - 📫 How to reach me **atakanunal25@gmail.com**  
