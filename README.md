@@ -5,6 +5,7 @@
 - 📝 I regularly write articles on [https://atakanunal.com](https://atakanunal.com)  
   
 - 📫 How to reach me **atakanunal25@gmail.com**  
+- my best friend is kabal
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
